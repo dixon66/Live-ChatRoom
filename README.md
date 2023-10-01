@@ -177,3 +177,14 @@ print(f"{session.get('name')} said: {data['data']}")
 This detailed workflow emphasizes the role of session management in maintaining user state throughout the application. It ensures that users remain authenticated within their chosen rooms.
 
 For any further queries or additional information, please feel free to ask.
+
+---
+### ☕ Let's Connect
+<a href="https://twitter.com/dixon1099"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="Twitter Account" width="50"/></a>
+<a href ="https://wa.me/+918838882908"><img src="https://github.com/dixon66/dixon66/blob/main/whatsapp-icon.svg" alt="Whatsapp Account" width="35"/></a>
+<a href="https://www.instagram.com/dixon.1099/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="35"/></a>
+<a href ="https://t.me/tele_one_bot"><img src="https://github.com/dixon66/dixon66/blob/main/Telegram_logo.svg" alt="Telegram Account" width="35"/></a>
+<a href="https://www.leetcode.com/dixon_n"><img src="https://github.com/dixon66/dixon66/blob/main/leetcode.jpg" alt="dixon_n" width="45"/></a>
+<a href ="https://www.linkedin.com/in/dixon055/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="35"/></a>
+<a href="https://hashnode.com/@dixon55"><img src="https://www.cdnlogo.com/logos/h/71/hashnode.svg" width="35"></a>
+#
