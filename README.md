@@ -22,7 +22,7 @@ This Flask-based real-time chat application leverages Socket.IO for WebSocket co
 
 ## Application Structure
 
-- `app.py`: Contains the main application code.
+- `main.py`: Contains the main application code.
 - `templates/`: Stores HTML templates.
 - `static/`: Contains static files like CSS and JavaScript.
 
@@ -151,7 +151,7 @@ print(f"{session.get('name')} said: {data['data']}")
 ### 6. User Interaction
 
 1. **Launching the Application**
-   - The user runs the application with `python app.py`.
+   - The user runs the application with `python main.py`.
 
 2. **Accessing the Application**
    - Users access the application through a web browser.
